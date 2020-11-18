@@ -1,0 +1,13 @@
+* {
+    font-size: 11 ;
+    font-style: verdana;
+}
+#first {
+    color: tomato;
+}
+#titulo {
+    color: teal;
+}
+.azul {
+    color: rgba(0, 100, 200, 0.6);
+}
