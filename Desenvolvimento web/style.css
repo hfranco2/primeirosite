@@ -1,9 +1,13 @@
 * {
-    font-size: 11 ;
+    font-size: 1rem ;
     font-style: verdana;
 }
 #first {
     color: tomato;
+    background-image: url(../Desenvolvimento\ web/imagens/download2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 #titulo {
     color: teal;
