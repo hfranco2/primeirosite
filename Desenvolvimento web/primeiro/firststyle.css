@@ -1,0 +1,78 @@
+* {
+    font-size: 1rem ;
+    font-style: verdana;
+}
+#paragrafos {
+    color: tomato;
+    background-image: url(../Desenvolvimento\ web/imagens/download2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#titulo {
+    color: teal;
+}
+.azul {
+    color: rgba(0, 100, 200, 0.6);
+}
+#cm{
+    background-color: blue;
+    width: 1cm;
+    height: 1cm;
+}
+#mm {
+    background-color: red;
+    width: 1mm;
+    height: 1mm;
+}
+#in {
+    background-color: blue;
+    width: 1in;
+    height: 1in;
+    }
+#px {
+    background-color: red;
+    width: 10px;
+    height: 10px;
+}
+#pt {
+    background-color: blue;
+    width: 10pt;
+    height:10pt;
+}
+#pc {
+    background-color: red;
+    width: 1pc;
+    height: 1pc;
+}
+.container{
+    font-size: 25px;
+
+    width: 300px;
+    background-color: red;
+}
+.inside {
+    font-size: 2em;
+    
+    width: 300px;
+    background-color: blue;
+}
+/*A medida em representa 100% da medida padrão 
+sendo utilizada.
+A medida vw representa 1% da largura da nossa janela.
+A medida vh represneta 1% da altura da nossa janela.
+A medida vmin representa 1% da menor dimensão da nossa
+janela, se for altura a menor, então ele sera modificado 
+com relação a altura.
+A medida % tem a porcentagem do elemento pai.
+*/
+#base {
+    height: 10px;
+    background-color: red;
+}
+#cont {
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+}
