@@ -10,5 +10,8 @@ body{
 }
 .content{
     background-color: #ddd;
+    border: 5px solid green;
+    padding: 5px;
+    box-sizing: border-box;
 
 }
