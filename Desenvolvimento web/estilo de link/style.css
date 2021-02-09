@@ -1,0 +1,17 @@
+.links{
+    text-decoration:none;
+    color: red;
+    cursor: crosshair;
+    /*background-color: red;*/
+    padding: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    border: 2px solid red;
+}
+/*.links:visited {
+    color: blue}*/
+    .links:hover{
+        background-color:red;
+        color:white;
+    }
