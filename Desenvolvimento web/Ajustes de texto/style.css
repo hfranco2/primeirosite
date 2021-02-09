@@ -1,0 +1,9 @@
+p{
+    color: red;
+    /*text-align: left;*/
+    /*text-transform: uppercase;*/
+    /*text-decoration: underline;*/
+    letter-spacing: -2px;
+    line-height: 5;
+    text-shadow: #bbb;
+}
